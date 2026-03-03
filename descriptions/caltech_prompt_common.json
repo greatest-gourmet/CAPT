@@ -1,0 +1,702 @@
+{
+  "face": [
+    "face shares same feature with (trilobite, platypus, brontosaurus) in tail presence",
+    "face shares same feature with (crayfish, brain, barrel) in limb structure",
+    "face shares same feature with (brain, dalmatian, pyramid) in habitat or behavior",
+    "face shares same feature with (bass, headphone, gramophone) in fur or skin pattern",
+    "face shares same feature with (beaver, mandolin, bass) in limb structure"
+  ],
+  "leopard": [
+    "leopard shares same feature with (butterfly, gerenuk, pigeon) in fur or skin pattern",
+    "leopard shares same feature with (flamingo, dalmatian, soccer ball) in tail presence",
+    "leopard shares same feature with (mandolin, car side, lamp) in tail presence",
+    "leopard shares same feature with (crab, lobster, euphonium) in body structure",
+    "leopard shares same feature with (joshua tree, elephant, cannon) in tail presence"
+  ],
+  "motorbike": [
+    "motorbike shares same feature with (pizza, anchor, car side) in cargo or passenger capacity",
+    "motorbike shares same feature with (dragonfly, saxophone, panda) in operation mode",
+    "motorbike shares same feature with (garfield, pagoda, flamingo) in wheels or wings",
+    "motorbike shares same feature with (gerenuk, umbrella, ewer) in cargo or passenger capacity",
+    "motorbike shares same feature with (euphonium, metronome, schooner) in operation mode"
+  ],
+  "accordion": [
+    "accordion shares same feature with (garfield, flamingo head, flamingo) in size",
+    "accordion shares same feature with (cannon, crocodile, lobster) in acoustic property",
+    "accordion shares same feature with (gramophone, chandelier, cellphone) in material",
+    "accordion shares same feature with (rooster, platypus, stegosaurus) in sound production",
+    "accordion shares same feature with (anchor, binocular, panda) in acoustic property"
+  ],
+  "airplane": [
+    "airplane shares same feature with (pyramid, dolphin, chair) in mechanical structure",
+    "airplane shares same feature with (platypus, minaret, ketch) in wheels or wings",
+    "airplane shares same feature with (gerenuk, menorah, ceiling fan) in operation mode",
+    "airplane shares same feature with (hawksbill, ewer, euphonium) in mechanical structure",
+    "airplane shares same feature with (wrench, motorbike, stop sign) in cargo or passenger capacity"
+  ],
+  "anchor": [
+    "anchor shares same feature with (dragonfly, cellphone, crocodile head) in functionality",
+    "anchor shares same feature with (dalmatian, stop sign, wild cat) in structural design",
+    "anchor shares same feature with (inline skate, airplane, stapler) in structural design",
+    "anchor shares same feature with (trilobite, kangaroo, ewer) in structural design",
+    "anchor shares same feature with (dragonfly, pyramid, elephant) in material"
+  ],
+  "ant": [
+    "ant shares same feature with (chair, gramophone, grand piano) in usage",
+    "ant shares same feature with (water lilly, yin yang, ketch) in functionality",
+    "ant shares same feature with (dollar bill, grand piano, lobster) in usage",
+    "ant shares same feature with (ceiling fan, stapler, ewer) in shape",
+    "ant shares same feature with (scorpion, ewer, dolphin) in functionality"
+  ],
+  "barrel": [
+    "barrel shares same feature with (llama, ant, hedgehog) in usage",
+    "barrel shares same feature with (ceiling fan, mandolin, garfield) in shape",
+    "barrel shares same feature with (helicopter, revolver, umbrella) in structural design",
+    "barrel shares same feature with (revolver, metronome, hawksbill) in material",
+    "barrel shares same feature with (airplane, ibis, dragonfly) in structural design"
+  ],
+  "bass": [
+    "bass shares same feature with (schooner, laptop, lotus) in shape",
+    "bass shares same feature with (electric guitar, euphonium, lotus) in shape",
+    "bass shares same feature with (llama, minaret, windsor chair) in functionality",
+    "bass shares same feature with (brain, starfish, revolver) in usage",
+    "bass shares same feature with (umbrella, stapler, cup) in shape"
+  ],
+  "beaver": [
+    "beaver shares same feature with (brontosaurus, mayfly, crocodile head) in habitat or behavior",
+    "beaver shares same feature with (starfish, llama, dragonfly) in body structure",
+    "beaver shares same feature with (dollar bill, octopus, wheelchair) in limb structure",
+    "beaver shares same feature with (mayfly, bonsai, leopard) in fur or skin pattern",
+    "beaver shares same feature with (crocodile, dragonfly, car side) in fur or skin pattern"
+  ],
+  "binocular": [
+    "binocular shares same feature with (dollar bill, buddha, emu) in usage",
+    "binocular shares same feature with (revolver, ibis, hedgehog) in structural design",
+    "binocular shares same feature with (grand piano, platypus, mayfly) in usage",
+    "binocular shares same feature with (ketch, stapler, saxophone) in structural design",
+    "binocular shares same feature with (crocodile head, cup, butterfly) in shape"
+  ],
+  "bonsai": [
+    "bonsai shares same feature with (accordion, brain, llama) in color",
+    "bonsai shares same feature with (hedgehog, lamp, saxophone) in shape",
+    "bonsai shares same feature with (saxophone, crocodile, elephant) in shape",
+    "bonsai shares same feature with (car side, llama, brain) in aesthetic value",
+    "bonsai shares same feature with (butterfly, camera, anchor) in aesthetic value"
+  ],
+  "brain": [
+    "brain shares same feature with (octopus, sunflower, dollar bill) in cognitive or biological role",
+    "brain shares same feature with (okapi, chair, pizza) in function",
+    "brain shares same feature with (crocodile, chandelier, saxophone) in location",
+    "brain shares same feature with (headphone, ketch, dolphin) in function",
+    "brain shares same feature with (dragonfly, stegosaurus, ant) in structure"
+  ],
+  "brontosaurus": [
+    "brontosaurus shares same feature with (cougar body, schooner, flamingo head) in habitat or behavior",
+    "brontosaurus shares same feature with (bass, cellphone, mandolin) in habitat or behavior",
+    "brontosaurus shares same feature with (crocodile, strawberry, buddha) in body structure",
+    "brontosaurus shares same feature with (brain, airplane, lobster) in body structure",
+    "brontosaurus shares same feature with (elephant, minaret, grand piano) in habitat or behavior"
+  ],
+  "buddha": [
+    "buddha shares same feature with (flamingo, wrench, windsor chair) in function",
+    "buddha shares same feature with (trilobite, joshua tree, mandolin) in cognitive or biological role",
+    "buddha shares same feature with (bonsai, crab, sea horse) in cognitive or biological role",
+    "buddha shares same feature with (watch, ceiling fan, butterfly) in structure",
+    "buddha shares same feature with (chair, rhino, flamingo) in location"
+  ],
+  "butterfly": [
+    "butterfly shares same feature with (ewer, soccer ball, electric guitar) in usage",
+    "butterfly shares same feature with (crocodile, airplane, pizza) in shape",
+    "butterfly shares same feature with (cannon, gerenuk, car side) in usage",
+    "butterfly shares same feature with (windsor chair, barrel, ant) in shape",
+    "butterfly shares same feature with (bass, water lilly, yin yang) in material"
+  ],
+  "camera": [
+    "camera shares same feature with (water lilly, cellphone, laptop) in usage",
+    "camera shares same feature with (tick, gramophone, car side) in shape",
+    "camera shares same feature with (stop sign, ewer, scorpion) in shape",
+    "camera shares same feature with (sunflower, umbrella, wrench) in functionality",
+    "camera shares same feature with (leopard, ferry, hedgehog) in structural design"
+  ],
+  "cannon": [
+    "cannon shares same feature with (inline skate, hedgehog, metronome) in usage",
+    "cannon shares same feature with (soccer ball, beaver, crab) in shape",
+    "cannon shares same feature with (hawksbill, stegosaurus, flamingo head) in structural design",
+    "cannon shares same feature with (pizza, laptop, soccer ball) in functionality",
+    "cannon shares same feature with (chair, car side, sea horse) in functionality"
+  ],
+  "car side": [
+    "car side shares same feature with (joshua tree, chair, ceiling fan) in transport type",
+    "car side shares same feature with (gramophone, soccer ball, crocodile head) in wheels or wings",
+    "car side shares same feature with (wild cat, water lilly, ibis) in transport type",
+    "car side shares same feature with (crab, ant, lobster) in wheels or wings",
+    "car side shares same feature with (chandelier, crayfish, inline skate) in operation mode"
+  ],
+  "ceiling fan": [
+    "ceiling fan shares same feature with (soccer ball, stop sign, metronome) in material",
+    "ceiling fan shares same feature with (crayfish, crab, buddha) in shape",
+    "ceiling fan shares same feature with (nautilus, cellphone, menorah) in usage",
+    "ceiling fan shares same feature with (flamingo, brain, bonsai) in shape",
+    "ceiling fan shares same feature with (pagoda, brain, crocodile) in functionality"
+  ],
+  "cellphone": [
+    "cellphone shares same feature with (leopard, cannon, dolphin) in functionality",
+    "cellphone shares same feature with (ibis, flamingo, pigeon) in shape",
+    "cellphone shares same feature with (car side, kangaroo, pizza) in functionality",
+    "cellphone shares same feature with (wild cat, laptop, dollar bill) in material",
+    "cellphone shares same feature with (lobster, stapler, headphone) in usage"
+  ],
+  "chair": [
+    "chair shares same feature with (rooster, airplane, lotus) in usage",
+    "chair shares same feature with (elephant, ketch, strawberry) in usage",
+    "chair shares same feature with (minaret, mandolin, tick) in usage",
+    "chair shares same feature with (rhino, brontosaurus, beaver) in shape",
+    "chair shares same feature with (cellphone, pizza, soccer ball) in shape"
+  ],
+  "chandelier": [
+    "chandelier shares same feature with (helicopter, wheelchair, buddha) in usage",
+    "chandelier shares same feature with (beaver, strawberry, menorah) in structural design",
+    "chandelier shares same feature with (bonsai, sea horse, snoopy) in functionality",
+    "chandelier shares same feature with (mandolin, metronome, crayfish) in shape",
+    "chandelier shares same feature with (pizza, nautilus, anchor) in functionality"
+  ],
+  "cougar face": [
+    "cougar face shares same feature with (cannon, laptop, ewer) in body structure",
+    "cougar face shares same feature with (pizza, euphonium, snoopy) in body structure",
+    "cougar face shares same feature with (minaret, flamingo head, camera) in tail presence",
+    "cougar face shares same feature with (brain, crab, yin yang) in fur or skin pattern",
+    "cougar face shares same feature with (nautilus, emu, electric guitar) in tail presence"
+  ],
+  "cougar body": [
+    "cougar body shares same feature with (beaver, pagoda, cougar face) in functionality",
+    "cougar body shares same feature with (dolphin, cannon, dollar bill) in structural design",
+    "cougar body shares same feature with (lobster, minaret, rhino) in structural design",
+    "cougar body shares same feature with (wrench, pigeon, dragonfly) in shape",
+    "cougar body shares same feature with (watch, kangaroo, accordion) in functionality"
+  ],
+  "crab": [
+    "crab shares same feature with (pyramid, car side, gramophone) in fur or skin pattern",
+    "crab shares same feature with (panda, minaret, hedgehog) in habitat or behavior",
+    "crab shares same feature with (platypus, okapi, dollar bill) in habitat or behavior",
+    "crab shares same feature with (buddha, flamingo head, dalmatian) in habitat or behavior",
+    "crab shares same feature with (trilobite, lotus, dolphin) in body structure"
+  ],
+  "crayfish": [
+    "crayfish shares same feature with (brontosaurus, platypus, helicopter) in body structure",
+    "crayfish shares same feature with (minaret, menorah, chandelier) in fur or skin pattern",
+    "crayfish shares same feature with (grand piano, bonsai, saxophone) in fur or skin pattern",
+    "crayfish shares same feature with (stapler, menorah, binocular) in tail presence",
+    "crayfish shares same feature with (elephant, ant, leopard) in tail presence"
+  ],
+  "crocodile": [
+    "crocodile shares same feature with (ibis, snoopy, inline skate) in tail presence",
+    "crocodile shares same feature with (wrench, leopard, rooster) in habitat or behavior",
+    "crocodile shares same feature with (okapi, garfield, snoopy) in tail presence",
+    "crocodile shares same feature with (tick, ewer, strawberry) in tail presence",
+    "crocodile shares same feature with (barrel, crayfish, menorah) in fur or skin pattern"
+  ],
+  "crocodile head": [
+    "crocodile head shares same feature with (accordion, pyramid, barrel) in limb structure",
+    "crocodile head shares same feature with (wheelchair, accordion, hedgehog) in limb structure",
+    "crocodile head shares same feature with (soccer ball, lotus, headphone) in body structure",
+    "crocodile head shares same feature with (buddha, menorah, chandelier) in fur or skin pattern",
+    "crocodile head shares same feature with (brontosaurus, saxophone, bonsai) in body structure"
+  ],
+  "cup": [
+    "cup shares same feature with (rhino, anchor, minaret) in structural design",
+    "cup shares same feature with (flamingo head, emu, brontosaurus) in structural design",
+    "cup shares same feature with (brain, scorpion, emu) in usage",
+    "cup shares same feature with (barrel, buddha, brain) in material",
+    "cup shares same feature with (revolver, nautilus, lobster) in structural design"
+  ],
+  "dalmatian": [
+    "dalmatian shares same feature with (scorpion, ibis, brain) in tail presence",
+    "dalmatian shares same feature with (pigeon, inline skate, scorpion) in fur or skin pattern",
+    "dalmatian shares same feature with (minaret, tick, beaver) in limb structure",
+    "dalmatian shares same feature with (lobster, cup, wrench) in habitat or behavior",
+    "dalmatian shares same feature with (starfish, revolver, leopard) in habitat or behavior"
+  ],
+  "dollar bill": [
+    "dollar bill shares same feature with (mayfly, gerenuk, grand piano) in structural design",
+    "dollar bill shares same feature with (flamingo head, rooster, sunflower) in functionality",
+    "dollar bill shares same feature with (pigeon, binocular, mayfly) in shape",
+    "dollar bill shares same feature with (beaver, flamingo, menorah) in usage",
+    "dollar bill shares same feature with (brontosaurus, water lilly, bonsai) in functionality"
+  ],
+  "dolphin": [
+    "dolphin shares same feature with (ferry, stegosaurus, ewer) in habitat or behavior",
+    "dolphin shares same feature with (pyramid, stapler, flamingo) in limb structure",
+    "dolphin shares same feature with (starfish, accordion, car side) in habitat or behavior",
+    "dolphin shares same feature with (cannon, yin yang, buddha) in limb structure",
+    "dolphin shares same feature with (airplane, crab, binocular) in body structure"
+  ],
+  "dragonfly": [
+    "dragonfly shares same feature with (llama, butterfly, stapler) in shape",
+    "dragonfly shares same feature with (camera, ewer, wrench) in structural design",
+    "dragonfly shares same feature with (lamp, grand piano, panda) in structural design",
+    "dragonfly shares same feature with (bass, car side, water lilly) in shape",
+    "dragonfly shares same feature with (dolphin, bass, revolver) in material"
+  ],
+  "electric guitar": [
+    "electric guitar shares same feature with (strawberry, rooster, joshua tree) in size",
+    "electric guitar shares same feature with (scissors, laptop, wrench) in material",
+    "electric guitar shares same feature with (pyramid, butterfly, bonsai) in sound production",
+    "electric guitar shares same feature with (crocodile, metronome, camera) in material",
+    "electric guitar shares same feature with (mandolin, windsor chair, cougar body) in size"
+  ],
+  "elephant": [
+    "elephant shares same feature with (revolver, camera, chair) in body structure",
+    "elephant shares same feature with (panda, lamp, euphonium) in tail presence",
+    "elephant shares same feature with (cougar face, panda, windsor chair) in tail presence",
+    "elephant shares same feature with (rooster, stop sign, crayfish) in habitat or behavior",
+    "elephant shares same feature with (anchor, joshua tree, wild cat) in habitat or behavior"
+  ],
+  "emu": [
+    "emu shares same feature with (accordion, llama, lobster) in tail presence",
+    "emu shares same feature with (octopus, brontosaurus, scissors) in fur or skin pattern",
+    "emu shares same feature with (octopus, pyramid, gerenuk) in habitat or behavior",
+    "emu shares same feature with (soccer ball, strawberry, water lilly) in limb structure",
+    "emu shares same feature with (motorbike, chair, panda) in tail presence"
+  ],
+  "euphonium": [
+    "euphonium shares same feature with (laptop, face, minaret) in size",
+    "euphonium shares same feature with (lobster, buddha, anchor) in sound production",
+    "euphonium shares same feature with (kangaroo, sea horse, cougar face) in acoustic property",
+    "euphonium shares same feature with (wild cat, water lilly, inline skate) in size",
+    "euphonium shares same feature with (rooster, lobster, okapi) in acoustic property"
+  ],
+  "ewer": [
+    "ewer shares same feature with (emu, minaret, brain) in material",
+    "ewer shares same feature with (anchor, bass, ferry) in usage",
+    "ewer shares same feature with (scissors, flamingo head, dalmatian) in material",
+    "ewer shares same feature with (windsor chair, yin yang, joshua tree) in functionality",
+    "ewer shares same feature with (mayfly, pigeon, binocular) in material"
+  ],
+  "ferry": [
+    "ferry shares same feature with (strawberry, crocodile, pyramid) in mechanical structure",
+    "ferry shares same feature with (grand piano, pigeon, starfish) in wheels or wings",
+    "ferry shares same feature with (gerenuk, rhino, panda) in cargo or passenger capacity",
+    "ferry shares same feature with (anchor, pizza, menorah) in mechanical structure",
+    "ferry shares same feature with (buddha, chandelier, dollar bill) in mechanical structure"
+  ],
+  "flamingo": [
+    "flamingo shares same feature with (strawberry, pigeon, stegosaurus) in habitat or behavior",
+    "flamingo shares same feature with (garfield, rhino, umbrella) in tail presence",
+    "flamingo shares same feature with (ferry, lobster, strawberry) in fur or skin pattern",
+    "flamingo shares same feature with (okapi, cougar face, flamingo head) in body structure",
+    "flamingo shares same feature with (saxophone, water lilly, brontosaurus) in tail presence"
+  ],
+  "flamingo head": [
+    "flamingo head shares same feature with (tick, menorah, inline skate) in limb structure",
+    "flamingo head shares same feature with (trilobite, ketch, inline skate) in limb structure",
+    "flamingo head shares same feature with (ceiling fan, stegosaurus, llama) in fur or skin pattern",
+    "flamingo head shares same feature with (rhino, inline skate, buddha) in body structure",
+    "flamingo head shares same feature with (face, wrench, umbrella) in fur or skin pattern"
+  ],
+  "garfield": [
+    "garfield shares same feature with (panda, octopus, elephant) in shape",
+    "garfield shares same feature with (rhino, cougar body, kangaroo) in structural design",
+    "garfield shares same feature with (dollar bill, cup, yin yang) in material",
+    "garfield shares same feature with (ketch, crayfish, anchor) in shape",
+    "garfield shares same feature with (sea horse, barrel, pigeon) in functionality"
+  ],
+  "gerenuk": [
+    "gerenuk shares same feature with (laptop, menorah, garfield) in body structure",
+    "gerenuk shares same feature with (yin yang, cellphone, hedgehog) in body structure",
+    "gerenuk shares same feature with (ewer, brontosaurus, camera) in habitat or behavior",
+    "gerenuk shares same feature with (stegosaurus, leopard, ferry) in tail presence",
+    "gerenuk shares same feature with (metronome, butterfly, ceiling fan) in fur or skin pattern"
+  ],
+  "gramophone": [
+    "gramophone shares same feature with (stop sign, rhino, umbrella) in size",
+    "gramophone shares same feature with (bass, ferry, crayfish) in human-operated",
+    "gramophone shares same feature with (rooster, cannon, hawksbill) in size",
+    "gramophone shares same feature with (cup, ibis, flamingo head) in acoustic property",
+    "gramophone shares same feature with (motorbike, cougar face, wheelchair) in sound production"
+  ],
+  "grand piano": [
+    "grand piano shares same feature with (crayfish, pizza, water lilly) in sound production",
+    "grand piano shares same feature with (motorbike, rooster, water lilly) in size",
+    "grand piano shares same feature with (sunflower, binocular, airplane) in acoustic property",
+    "grand piano shares same feature with (elephant, cougar face, minaret) in acoustic property",
+    "grand piano shares same feature with (dollar bill, brain, cup) in sound production"
+  ],
+  "hawksbill": [
+    "hawksbill shares same feature with (trilobite, gramophone, butterfly) in limb structure",
+    "hawksbill shares same feature with (sunflower, helicopter, electric guitar) in limb structure",
+    "hawksbill shares same feature with (laptop, starfish, sea horse) in tail presence",
+    "hawksbill shares same feature with (inline skate, accordion, saxophone) in limb structure",
+    "hawksbill shares same feature with (ketch, anchor, mayfly) in habitat or behavior"
+  ],
+  "headphone": [
+    "headphone shares same feature with (lamp, accordion, schooner) in material",
+    "headphone shares same feature with (lamp, yin yang, dolphin) in shape",
+    "headphone shares same feature with (bonsai, wild cat, windsor chair) in structural design",
+    "headphone shares same feature with (cellphone, umbrella, water lilly) in structural design",
+    "headphone shares same feature with (cellphone, nautilus, pagoda) in material"
+  ],
+  "hedgehog": [
+    "hedgehog shares same feature with (motorbike, panda, snoopy) in tail presence",
+    "hedgehog shares same feature with (flamingo, gramophone, dollar bill) in body structure",
+    "hedgehog shares same feature with (electric guitar, flamingo head, leopard) in fur or skin pattern",
+    "hedgehog shares same feature with (soccer ball, butterfly, hawksbill) in limb structure",
+    "hedgehog shares same feature with (helicopter, dalmatian, sea horse) in tail presence"
+  ],
+  "helicopter": [
+    "helicopter shares same feature with (anchor, stapler, strawberry) in transport type",
+    "helicopter shares same feature with (stop sign, pigeon, menorah) in transport type",
+    "helicopter shares same feature with (wrench, binocular, yin yang) in wheels or wings",
+    "helicopter shares same feature with (dragonfly, pizza, scissors) in operation mode",
+    "helicopter shares same feature with (trilobite, yin yang, windsor chair) in wheels or wings"
+  ],
+  "ibis": [
+    "ibis shares same feature with (cougar body, buddha, headphone) in limb structure",
+    "ibis shares same feature with (watch, stop sign, minaret) in habitat or behavior",
+    "ibis shares same feature with (hawksbill, water lilly, crocodile) in fur or skin pattern",
+    "ibis shares same feature with (hawksbill, crocodile head, nautilus) in body structure",
+    "ibis shares same feature with (buddha, cup, crocodile) in limb structure"
+  ],
+  "inline skate": [
+    "inline skate shares same feature with (headphone, camera, ewer) in structural design",
+    "inline skate shares same feature with (gerenuk, ant, yin yang) in material",
+    "inline skate shares same feature with (stapler, wild cat, accordion) in shape",
+    "inline skate shares same feature with (water lilly, bass, wild cat) in structural design",
+    "inline skate shares same feature with (lotus, camera, ant) in functionality"
+  ],
+  "joshua tree": [
+    "joshua tree shares same feature with (elephant, wrench, crab) in size",
+    "joshua tree shares same feature with (inline skate, motorbike, crocodile head) in plant type",
+    "joshua tree shares same feature with (wheelchair, dolphin, dragonfly) in plant type",
+    "joshua tree shares same feature with (mayfly, pyramid, inline skate) in shape",
+    "joshua tree shares same feature with (laptop, ceiling fan, cup) in aesthetic value"
+  ],
+  "kangaroo": [
+    "kangaroo shares same feature with (barrel, emu, face) in tail presence",
+    "kangaroo shares same feature with (llama, anchor, wild cat) in fur or skin pattern",
+    "kangaroo shares same feature with (buddha, anchor, soccer ball) in tail presence",
+    "kangaroo shares same feature with (dalmatian, hedgehog, grand piano) in limb structure",
+    "kangaroo shares same feature with (inline skate, barrel, ewer) in habitat or behavior"
+  ],
+  "ketch": [
+    "ketch shares same feature with (beaver, hawksbill, accordion) in cargo or passenger capacity",
+    "ketch shares same feature with (ibis, llama, ferry) in operation mode",
+    "ketch shares same feature with (inline skate, flamingo head, sea horse) in transport type",
+    "ketch shares same feature with (revolver, saxophone, cougar face) in operation mode",
+    "ketch shares same feature with (headphone, sea horse, soccer ball) in operation mode"
+  ],
+  "lamp": [
+    "lamp shares same feature with (euphonium, dragonfly, accordion) in functionality",
+    "lamp shares same feature with (binocular, octopus, joshua tree) in structural design",
+    "lamp shares same feature with (platypus, ant, chair) in material",
+    "lamp shares same feature with (euphonium, headphone, starfish) in structural design",
+    "lamp shares same feature with (hawksbill, rhino, airplane) in material"
+  ],
+  "laptop": [
+    "laptop shares same feature with (buddha, wheelchair, dolphin) in shape",
+    "laptop shares same feature with (bonsai, car side, wrench) in structural design",
+    "laptop shares same feature with (lobster, yin yang, pizza) in functionality",
+    "laptop shares same feature with (kangaroo, stop sign, wild cat) in material",
+    "laptop shares same feature with (pigeon, kangaroo, ferry) in structural design"
+  ],
+  "llama": [
+    "llama shares same feature with (mayfly, ferry, saxophone) in functionality",
+    "llama shares same feature with (ibis, cellphone, chandelier) in shape",
+    "llama shares same feature with (platypus, schooner, electric guitar) in structural design",
+    "llama shares same feature with (cougar body, garfield, flamingo) in usage",
+    "llama shares same feature with (pigeon, grand piano, wheelchair) in structural design"
+  ],
+  "lobster": [
+    "lobster shares same feature with (motorbike, headphone, mandolin) in usage",
+    "lobster shares same feature with (cougar face, dollar bill, garfield) in usage",
+    "lobster shares same feature with (hawksbill, lotus, stegosaurus) in shape",
+    "lobster shares same feature with (platypus, pagoda, dalmatian) in usage",
+    "lobster shares same feature with (metronome, car side, electric guitar) in structural design"
+  ],
+  "lotus": [
+    "lotus shares same feature with (platypus, lobster, binocular) in aesthetic value",
+    "lotus shares same feature with (tick, crocodile, stegosaurus) in aesthetic value",
+    "lotus shares same feature with (water lilly, cellphone, airplane) in size",
+    "lotus shares same feature with (grand piano, elephant, emu) in size",
+    "lotus shares same feature with (watch, laptop, grand piano) in size"
+  ],
+  "mandolin": [
+    "mandolin shares same feature with (crocodile head, saxophone, ferry) in sound production",
+    "mandolin shares same feature with (chair, lobster, euphonium) in size",
+    "mandolin shares same feature with (hawksbill, schooner, helicopter) in acoustic property",
+    "mandolin shares same feature with (euphonium, gerenuk, nautilus) in material",
+    "mandolin shares same feature with (accordion, umbrella, cougar body) in acoustic property"
+  ],
+  "mayfly": [
+    "mayfly shares same feature with (crocodile head, metronome, pyramid) in limb structure",
+    "mayfly shares same feature with (sunflower, dragonfly, lamp) in habitat or behavior",
+    "mayfly shares same feature with (beaver, wild cat, buddha) in tail presence",
+    "mayfly shares same feature with (cannon, ceiling fan, octopus) in limb structure",
+    "mayfly shares same feature with (bonsai, yin yang, hedgehog) in fur or skin pattern"
+  ],
+  "menorah": [
+    "menorah shares same feature with (scorpion, cellphone, pyramid) in usage",
+    "menorah shares same feature with (camera, platypus, ant) in usage",
+    "menorah shares same feature with (ibis, cougar face, wrench) in functionality",
+    "menorah shares same feature with (butterfly, inline skate, motorbike) in structural design",
+    "menorah shares same feature with (ketch, binocular, strawberry) in functionality"
+  ],
+  "metronome": [
+    "metronome shares same feature with (joshua tree, grand piano, llama) in sound production",
+    "metronome shares same feature with (crayfish, gerenuk, motorbike) in material",
+    "metronome shares same feature with (gerenuk, binocular, cup) in material",
+    "metronome shares same feature with (wild cat, yin yang, chandelier) in acoustic property",
+    "metronome shares same feature with (gramophone, binocular, mandolin) in human-operated"
+  ],
+  "minaret": [
+    "minaret shares same feature with (trilobite, saxophone, crayfish) in shape",
+    "minaret shares same feature with (cougar body, crayfish, grand piano) in material",
+    "minaret shares same feature with (llama, bass, wheelchair) in functionality",
+    "minaret shares same feature with (bonsai, airplane, pigeon) in material",
+    "minaret shares same feature with (flamingo head, platypus, garfield) in structural design"
+  ],
+  "nautilus": [
+    "nautilus shares same feature with (strawberry, airplane, dollar bill) in structural design",
+    "nautilus shares same feature with (cannon, llama, crayfish) in structural design",
+    "nautilus shares same feature with (stop sign, ewer, scissors) in material",
+    "nautilus shares same feature with (lotus, dalmatian, barrel) in usage",
+    "nautilus shares same feature with (crocodile, headphone, wild cat) in material"
+  ],
+  "octopus": [
+    "octopus shares same feature with (barrel, mandolin, garfield) in structural design",
+    "octopus shares same feature with (stop sign, elephant, okapi) in usage",
+    "octopus shares same feature with (ant, pizza, cannon) in shape",
+    "octopus shares same feature with (gerenuk, stapler, metronome) in functionality",
+    "octopus shares same feature with (menorah, ewer, brontosaurus) in shape"
+  ],
+  "okapi": [
+    "okapi shares same feature with (camera, cougar body, chandelier) in limb structure",
+    "okapi shares same feature with (trilobite, soccer ball, ceiling fan) in habitat or behavior",
+    "okapi shares same feature with (chair, leopard, cougar face) in fur or skin pattern",
+    "okapi shares same feature with (cougar body, anchor, starfish) in fur or skin pattern",
+    "okapi shares same feature with (nautilus, anchor, windsor chair) in body structure"
+  ],
+  "pagoda": [
+    "pagoda shares same feature with (headphone, inline skate, sunflower) in functionality",
+    "pagoda shares same feature with (cougar face, ewer, dalmatian) in shape",
+    "pagoda shares same feature with (starfish, metronome, butterfly) in material",
+    "pagoda shares same feature with (bass, sea horse, garfield) in functionality",
+    "pagoda shares same feature with (llama, butterfly, sea horse) in material"
+  ],
+  "panda": [
+    "panda shares same feature with (sea horse, dragonfly, emu) in tail presence",
+    "panda shares same feature with (cellphone, wrench, pizza) in tail presence",
+    "panda shares same feature with (ferry, elephant, euphonium) in habitat or behavior",
+    "panda shares same feature with (ibis, ferry, rooster) in body structure",
+    "panda shares same feature with (dolphin, bass, face) in habitat or behavior"
+  ],
+  "pigeon": [
+    "pigeon shares same feature with (crocodile head, trilobite, camera) in shape",
+    "pigeon shares same feature with (crab, sea horse, ant) in functionality",
+    "pigeon shares same feature with (gerenuk, brain, brontosaurus) in structural design",
+    "pigeon shares same feature with (scissors, starfish, car side) in usage",
+    "pigeon shares same feature with (dragonfly, stapler, brain) in structural design"
+  ],
+  "pizza": [
+    "pizza shares same feature with (llama, inline skate, kangaroo) in material",
+    "pizza shares same feature with (mandolin, ibis, cougar body) in usage",
+    "pizza shares same feature with (anchor, crab, windsor chair) in usage",
+    "pizza shares same feature with (octopus, sunflower, flamingo) in functionality",
+    "pizza shares same feature with (barrel, crayfish, strawberry) in material"
+  ],
+  "platypus": [
+    "platypus shares same feature with (kangaroo, sunflower, gramophone) in habitat or behavior",
+    "platypus shares same feature with (car side, water lilly, crocodile head) in habitat or behavior",
+    "platypus shares same feature with (crocodile head, barrel, chandelier) in fur or skin pattern",
+    "platypus shares same feature with (water lilly, cannon, schooner) in habitat or behavior",
+    "platypus shares same feature with (water lilly, cellphone, cannon) in habitat or behavior"
+  ],
+  "pyramid": [
+    "pyramid shares same feature with (mayfly, watch, pigeon) in material",
+    "pyramid shares same feature with (crayfish, dragonfly, octopus) in shape",
+    "pyramid shares same feature with (emu, crayfish, flamingo) in usage",
+    "pyramid shares same feature with (cannon, stop sign, starfish) in usage",
+    "pyramid shares same feature with (garfield, watch, nautilus) in shape"
+  ],
+  "revolver": [
+    "revolver shares same feature with (brain, sunflower, headphone) in shape",
+    "revolver shares same feature with (lotus, flamingo, cougar body) in shape",
+    "revolver shares same feature with (chair, watch, ant) in functionality",
+    "revolver shares same feature with (panda, wrench, airplane) in usage",
+    "revolver shares same feature with (flamingo head, soccer ball, hedgehog) in structural design"
+  ],
+  "rhino": [
+    "rhino shares same feature with (kangaroo, tick, water lilly) in tail presence",
+    "rhino shares same feature with (snoopy, car side, yin yang) in fur or skin pattern",
+    "rhino shares same feature with (lotus, revolver, anchor) in habitat or behavior",
+    "rhino shares same feature with (panda, mayfly, ibis) in body structure",
+    "rhino shares same feature with (bass, pyramid, sunflower) in tail presence"
+  ],
+  "rooster": [
+    "rooster shares same feature with (tick, revolver, dragonfly) in fur or skin pattern",
+    "rooster shares same feature with (crab, flamingo head, mayfly) in body structure",
+    "rooster shares same feature with (dolphin, chair, bonsai) in fur or skin pattern",
+    "rooster shares same feature with (elephant, pizza, sea horse) in tail presence",
+    "rooster shares same feature with (watch, barrel, strawberry) in tail presence"
+  ],
+  "saxophone": [
+    "saxophone shares same feature with (pagoda, sea horse, water lilly) in sound production",
+    "saxophone shares same feature with (chair, mayfly, hedgehog) in sound production",
+    "saxophone shares same feature with (tick, lotus, ant) in material",
+    "saxophone shares same feature with (lamp, wild cat, ewer) in size",
+    "saxophone shares same feature with (chandelier, metronome, dalmatian) in acoustic property"
+  ],
+  "schooner": [
+    "schooner shares same feature with (lotus, stegosaurus, cannon) in operation mode",
+    "schooner shares same feature with (crocodile head, mayfly, barrel) in mechanical structure",
+    "schooner shares same feature with (pigeon, ketch, brontosaurus) in transport type",
+    "schooner shares same feature with (leopard, bonsai, tick) in operation mode",
+    "schooner shares same feature with (hedgehog, wild cat, saxophone) in transport type"
+  ],
+  "scissors": [
+    "scissors shares same feature with (kangaroo, okapi, barrel) in structural design",
+    "scissors shares same feature with (joshua tree, watch, ant) in functionality",
+    "scissors shares same feature with (wild cat, sunflower, brontosaurus) in structural design",
+    "scissors shares same feature with (brain, hedgehog, lobster) in structural design",
+    "scissors shares same feature with (car side, gramophone, crab) in material"
+  ],
+  "scorpion": [
+    "scorpion shares same feature with (cougar face, dragonfly, ferry) in habitat or behavior",
+    "scorpion shares same feature with (lamp, laptop, emu) in fur or skin pattern",
+    "scorpion shares same feature with (cougar body, electric guitar, kangaroo) in tail presence",
+    "scorpion shares same feature with (soccer ball, dalmatian, mandolin) in tail presence",
+    "scorpion shares same feature with (airplane, dollar bill, cougar face) in limb structure"
+  ],
+  "sea horse": [
+    "sea horse shares same feature with (menorah, soccer ball, schooner) in material",
+    "sea horse shares same feature with (beaver, cellphone, crocodile) in usage",
+    "sea horse shares same feature with (dragonfly, rhino, sunflower) in usage",
+    "sea horse shares same feature with (okapi, binocular, airplane) in material",
+    "sea horse shares same feature with (grand piano, ant, electric guitar) in functionality"
+  ],
+  "snoopy": [
+    "snoopy shares same feature with (flamingo head, chair, dalmatian) in fur or skin pattern",
+    "snoopy shares same feature with (ferry, stegosaurus, octopus) in habitat or behavior",
+    "snoopy shares same feature with (ewer, brain, laptop) in fur or skin pattern",
+    "snoopy shares same feature with (camera, brontosaurus, dalmatian) in habitat or behavior",
+    "snoopy shares same feature with (wild cat, crayfish, starfish) in fur or skin pattern"
+  ],
+  "soccer ball": [
+    "soccer ball shares same feature with (okapi, crocodile, face) in material",
+    "soccer ball shares same feature with (pigeon, mayfly, airplane) in usage",
+    "soccer ball shares same feature with (panda, kangaroo, leopard) in usage",
+    "soccer ball shares same feature with (cup, cougar body, ketch) in structural design",
+    "soccer ball shares same feature with (crocodile, scorpion, rhino) in structural design"
+  ],
+  "stapler": [
+    "stapler shares same feature with (mayfly, garfield, ferry) in usage",
+    "stapler shares same feature with (crocodile, chandelier, ceiling fan) in structural design",
+    "stapler shares same feature with (brontosaurus, ferry, laptop) in structural design",
+    "stapler shares same feature with (camera, cannon, revolver) in structural design",
+    "stapler shares same feature with (lobster, cup, ketch) in structural design"
+  ],
+  "starfish": [
+    "starfish shares same feature with (yin yang, wrench, cellphone) in shape",
+    "starfish shares same feature with (wheelchair, joshua tree, pizza) in structural design",
+    "starfish shares same feature with (cougar face, yin yang, flamingo) in structural design",
+    "starfish shares same feature with (lotus, laptop, stegosaurus) in structural design",
+    "starfish shares same feature with (ibis, pagoda, electric guitar) in shape"
+  ],
+  "stegosaurus": [
+    "stegosaurus shares same feature with (mayfly, strawberry, euphonium) in tail presence",
+    "stegosaurus shares same feature with (inline skate, hedgehog, minaret) in body structure",
+    "stegosaurus shares same feature with (bonsai, accordion, crab) in fur or skin pattern",
+    "stegosaurus shares same feature with (motorbike, llama, panda) in tail presence",
+    "stegosaurus shares same feature with (crocodile head, cannon, strawberry) in body structure"
+  ],
+  "stop sign": [
+    "stop sign shares same feature with (starfish, bass, inline skate) in shape",
+    "stop sign shares same feature with (inline skate, butterfly, pigeon) in shape",
+    "stop sign shares same feature with (inline skate, saxophone, binocular) in shape",
+    "stop sign shares same feature with (mandolin, cougar face, hedgehog) in usage",
+    "stop sign shares same feature with (stapler, sunflower, sea horse) in material"
+  ],
+  "strawberry": [
+    "strawberry shares same feature with (watch, crayfish, umbrella) in structural design",
+    "strawberry shares same feature with (stop sign, camera, pyramid) in structural design",
+    "strawberry shares same feature with (umbrella, dolphin, dragonfly) in functionality",
+    "strawberry shares same feature with (yin yang, scorpion, umbrella) in shape",
+    "strawberry shares same feature with (garfield, pigeon, mayfly) in functionality"
+  ],
+  "sunflower": [
+    "sunflower shares same feature with (flamingo head, lobster, revolver) in color",
+    "sunflower shares same feature with (pizza, llama, watch) in plant type",
+    "sunflower shares same feature with (mayfly, airplane, crocodile head) in size",
+    "sunflower shares same feature with (dolphin, soccer ball, watch) in size",
+    "sunflower shares same feature with (menorah, bass, pigeon) in shape"
+  ],
+  "tick": [
+    "tick shares same feature with (crocodile, saxophone, platypus) in limb structure",
+    "tick shares same feature with (snoopy, metronome, helicopter) in habitat or behavior",
+    "tick shares same feature with (ewer, garfield, butterfly) in habitat or behavior",
+    "tick shares same feature with (crocodile head, dolphin, pizza) in habitat or behavior",
+    "tick shares same feature with (wrench, crab, trilobite) in limb structure"
+  ],
+  "trilobite": [
+    "trilobite shares same feature with (tick, pizza, laptop) in habitat or behavior",
+    "trilobite shares same feature with (wild cat, crocodile head, chair) in limb structure",
+    "trilobite shares same feature with (car side, scissors, pizza) in habitat or behavior",
+    "trilobite shares same feature with (cannon, schooner, menorah) in body structure",
+    "trilobite shares same feature with (cellphone, rhino, chandelier) in tail presence"
+  ],
+  "umbrella": [
+    "umbrella shares same feature with (schooner, ibis, cougar face) in material",
+    "umbrella shares same feature with (hedgehog, strawberry, barrel) in usage",
+    "umbrella shares same feature with (nautilus, soccer ball, euphonium) in usage",
+    "umbrella shares same feature with (face, sea horse, bass) in shape",
+    "umbrella shares same feature with (beaver, ketch, wild cat) in material"
+  ],
+  "watch": [
+    "watch shares same feature with (mandolin, dolphin, bonsai) in usage",
+    "watch shares same feature with (rooster, ceiling fan, lamp) in material",
+    "watch shares same feature with (buddha, water lilly, wrench) in shape",
+    "watch shares same feature with (cougar body, car side, stapler) in material",
+    "watch shares same feature with (accordion, scissors, nautilus) in shape"
+  ],
+  "water lilly": [
+    "water lilly shares same feature with (scissors, bonsai, okapi) in size",
+    "water lilly shares same feature with (stegosaurus, minaret, chandelier) in shape",
+    "water lilly shares same feature with (ewer, elephant, gramophone) in color",
+    "water lilly shares same feature with (ibis, watch, lobster) in aesthetic value",
+    "water lilly shares same feature with (saxophone, wrench, starfish) in size"
+  ],
+  "wheelchair": [
+    "wheelchair shares same feature with (metronome, anchor, butterfly) in transport type",
+    "wheelchair shares same feature with (dragonfly, beaver, barrel) in operation mode",
+    "wheelchair shares same feature with (camera, saxophone, bass) in cargo or passenger capacity",
+    "wheelchair shares same feature with (rooster, beaver, dollar bill) in operation mode",
+    "wheelchair shares same feature with (stegosaurus, rooster, stapler) in transport type"
+  ],
+  "wild cat": [
+    "wild cat shares same feature with (yin yang, ewer, anchor) in limb structure",
+    "wild cat shares same feature with (ceiling fan, nautilus, mandolin) in fur or skin pattern",
+    "wild cat shares same feature with (wheelchair, brontosaurus, wrench) in habitat or behavior",
+    "wild cat shares same feature with (saxophone, snoopy, butterfly) in limb structure",
+    "wild cat shares same feature with (dalmatian, cougar face, binocular) in limb structure"
+  ],
+  "windsor chair": [
+    "windsor chair shares same feature with (crocodile, trilobite, hawksbill) in usage",
+    "windsor chair shares same feature with (minaret, ibis, metronome) in functionality",
+    "windsor chair shares same feature with (stop sign, ewer, wild cat) in structural design",
+    "windsor chair shares same feature with (saxophone, strawberry, mandolin) in shape",
+    "windsor chair shares same feature with (platypus, rhino, mayfly) in material"
+  ],
+  "wrench": [
+    "wrench shares same feature with (stapler, minaret, laptop) in shape",
+    "wrench shares same feature with (elephant, soccer ball, ceiling fan) in material",
+    "wrench shares same feature with (dollar bill, okapi, electric guitar) in material",
+    "wrench shares same feature with (sunflower, stop sign, joshua tree) in shape",
+    "wrench shares same feature with (chandelier, cougar face, pigeon) in material"
+  ],
+  "yin yang": [
+    "yin yang shares same feature with (ewer, umbrella, leopard) in material",
+    "yin yang shares same feature with (water lilly, saxophone, cellphone) in structural design",
+    "yin yang shares same feature with (hawksbill, grand piano, pyramid) in functionality",
+    "yin yang shares same feature with (cup, kangaroo, pyramid) in structural design",
+    "yin yang shares same feature with (grand piano, emu, laptop) in functionality"
+  ]
+}

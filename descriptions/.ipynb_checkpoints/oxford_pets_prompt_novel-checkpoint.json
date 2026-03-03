@@ -1,0 +1,204 @@
+{
+    "abyssinian": [
+        "The biggest difference between abyssinian and siamese lies in the slender body type and pointed features.",
+        "The biggest difference between abyssinian and sphynx lies in the slender body type and pointed features.",
+        "The biggest difference between abyssinian and egyptian mau lies in the slender body type and pointed features.",
+        "The biggest difference between abyssinian and bengal lies in the slender body type and pointed features."
+    ],
+    "american bulldog": [
+        "The biggest difference between american bulldog and american pit bull terrier lies in the muscular build and broad head.",
+        "The biggest difference between american bulldog and boxer lies in the muscular build and broad head.",
+        "The biggest difference between american bulldog and pug lies in the muscular build and broad head.",
+        "The biggest difference between american bulldog and shiba inu lies in the muscular build and broad head."
+    ],
+    "american pit bull terrier": [
+        "The biggest difference between american pit bull terrier and american bulldog lies in the muscular build and broad head.",
+        "The biggest difference between american pit bull terrier and boxer lies in the muscular build and broad head.",
+        "The biggest difference between american pit bull terrier and pug lies in the muscular build and broad head.",
+        "The biggest difference between american pit bull terrier and shiba inu lies in the muscular build and broad head."
+    ],
+    "basset hound": [
+        "The biggest difference between basset hound and beagle lies in the long ears and hunting purpose.",
+        "The biggest difference between basset hound and english cocker spaniel lies in the long ears and hunting purpose.",
+        "The biggest difference between basset hound and english setter lies in the long ears and hunting purpose.",
+        "The biggest difference between basset hound and german shorthaired lies in the long ears and hunting purpose."
+    ],
+    "beagle": [
+        "The biggest difference between beagle and basset hound lies in the long ears and hunting purpose.",
+        "The biggest difference between beagle and english cocker spaniel lies in the long ears and hunting purpose.",
+        "The biggest difference between beagle and english setter lies in the long ears and hunting purpose.",
+        "The biggest difference between beagle and german shorthaired lies in the long ears and hunting purpose."
+    ],
+    "bengal": [
+        "The biggest difference between bengal and siamese lies in the slender body type and pointed features.",
+        "The biggest difference between bengal and sphynx lies in the slender body type and pointed features.",
+        "The biggest difference between bengal and abyssinian lies in the slender body type and pointed features.",
+        "The biggest difference between bengal and egyptian mau lies in the slender body type and pointed features."
+    ],
+    "birman": [
+        "The biggest difference between birman and maine coon lies in the length and fluffiness of the coat.",
+        "The biggest difference between birman and ragdoll lies in the length and fluffiness of the coat.",
+        "The biggest difference between birman and persian lies in the length and fluffiness of the coat."
+    ],
+    "bombay": [
+        "The biggest difference between bombay and russian blue lies in the coat color and head shape.",
+        "The biggest difference between bombay and british shorthair lies in the coat color and head shape."
+    ],
+    "boxer": [
+        "The biggest difference between boxer and american bulldog lies in the muscular build and broad head.",
+        "The biggest difference between boxer and american pit bull terrier lies in the muscular build and broad head.",
+        "The biggest difference between boxer and pug lies in the muscular build and broad head.",
+        "The biggest difference between boxer and shiba inu lies in the muscular build and broad head."
+    ],
+    "british shorthair": [
+        "The biggest difference between british shorthair and russian blue lies in the coat color and head shape.",
+        "The biggest difference between british shorthair and bombay lies in the coat color and head shape."
+    ],
+    "chihuahua": [
+        "The biggest difference between chihuahua and pomeranian lies in the tiny body size and companion role.",
+        "The biggest difference between chihuahua and yorkshire terrier lies in the tiny body size and companion role.",
+        "The biggest difference between chihuahua and japanese chin lies in the tiny body size and companion role.",
+        "The biggest difference between chihuahua and havanese lies in the tiny body size and companion role."
+    ],
+    "egyptian mau": [
+        "The biggest difference between egyptian mau and siamese lies in the slender body type and pointed features.",
+        "The biggest difference between egyptian mau and sphynx lies in the slender body type and pointed features.",
+        "The biggest difference between egyptian mau and abyssinian lies in the slender body type and pointed features.",
+        "The biggest difference between egyptian mau and bengal lies in the slender body type and pointed features."
+    ],
+    "english cocker spaniel": [
+        "The biggest difference between english cocker spaniel and beagle lies in the long ears and hunting purpose.",
+        "The biggest difference between english cocker spaniel and basset hound lies in the long ears and hunting purpose.",
+        "The biggest difference between english cocker spaniel and english setter lies in the long ears and hunting purpose.",
+        "The biggest difference between english cocker spaniel and german shorthaired lies in the long ears and hunting purpose."
+    ],
+    "english setter": [
+        "The biggest difference between english setter and beagle lies in the long ears and hunting purpose.",
+        "The biggest difference between english setter and basset hound lies in the long ears and hunting purpose.",
+        "The biggest difference between english setter and english cocker spaniel lies in the long ears and hunting purpose.",
+        "The biggest difference between english setter and german shorthaired lies in the long ears and hunting purpose."
+    ],
+    "german shorthaired": [
+        "The biggest difference between german shorthaired and beagle lies in the long ears and hunting purpose.",
+        "The biggest difference between german shorthaired and basset hound lies in the long ears and hunting purpose.",
+        "The biggest difference between german shorthaired and english cocker spaniel lies in the long ears and hunting purpose.",
+        "The biggest difference between german shorthaired and english setter lies in the long ears and hunting purpose."
+    ],
+    "great pyrenees": [
+        "The biggest difference between great pyrenees and newfoundland lies in the massive body size and thick protective coat.",
+        "The biggest difference between great pyrenees and saint bernard lies in the massive body size and thick protective coat.",
+        "The biggest difference between great pyrenees and samoyed lies in the massive body size and thick protective coat.",
+        "The biggest difference between great pyrenees and leonberger lies in the massive body size and thick protective coat."
+    ],
+    "havanese": [
+        "The biggest difference between havanese and chihuahua lies in the tiny body size and companion role.",
+        "The biggest difference between havanese and pomeranian lies in the tiny body size and companion role.",
+        "The biggest difference between havanese and yorkshire terrier lies in the tiny body size and companion role.",
+        "The biggest difference between havanese and japanese chin lies in the tiny body size and companion role."
+    ],
+    "japanese chin": [
+        "The biggest difference between japanese chin and chihuahua lies in the tiny body size and companion role.",
+        "The biggest difference between japanese chin and pomeranian lies in the tiny body size and companion role.",
+        "The biggest difference between japanese chin and yorkshire terrier lies in the tiny body size and companion role.",
+        "The biggest difference between japanese chin and havanese lies in the tiny body size and companion role."
+    ],
+    "leonberger": [
+        "The biggest difference between leonberger and great pyrenees lies in the massive body size and thick protective coat.",
+        "The biggest difference between leonberger and newfoundland lies in the massive body size and thick protective coat.",
+        "The biggest difference between leonberger and saint bernard lies in the massive body size and thick protective coat.",
+        "The biggest difference between leonberger and samoyed lies in the massive body size and thick protective coat."
+    ],
+    "maine coon": [
+        "The biggest difference between maine coon and ragdoll lies in the length and fluffiness of the coat.",
+        "The biggest difference between maine coon and persian lies in the length and fluffiness of the coat.",
+        "The biggest difference between maine coon and birman lies in the length and fluffiness of the coat."
+    ],
+    "miniature pinscher": [
+        "The biggest difference between miniature pinscher and scottish terrier lies in the wiry coat and energetic temperament.",
+        "The biggest difference between miniature pinscher and staffordshire bull terrier lies in the wiry coat and energetic temperament.",
+        "The biggest difference between miniature pinscher and wheaten terrier lies in the wiry coat and energetic temperament."
+    ],
+    "newfoundland": [
+        "The biggest difference between newfoundland and great pyrenees lies in the massive body size and thick protective coat.",
+        "The biggest difference between newfoundland and saint bernard lies in the massive body size and thick protective coat.",
+        "The biggest difference between newfoundland and samoyed lies in the massive body size and thick protective coat.",
+        "The biggest difference between newfoundland and leonberger lies in the massive body size and thick protective coat."
+    ],
+    "persian": [
+        "The biggest difference between persian and maine coon lies in the length and fluffiness of the coat.",
+        "The biggest difference between persian and ragdoll lies in the length and fluffiness of the coat.",
+        "The biggest difference between persian and birman lies in the length and fluffiness of the coat."
+    ],
+    "pomeranian": [
+        "The biggest difference between pomeranian and chihuahua lies in the tiny body size and companion role.",
+        "The biggest difference between pomeranian and yorkshire terrier lies in the tiny body size and companion role.",
+        "The biggest difference between pomeranian and japanese chin lies in the tiny body size and companion role.",
+        "The biggest difference between pomeranian and havanese lies in the tiny body size and companion role."
+    ],
+    "pug": [
+        "The biggest difference between pug and american bulldog lies in the muscular build and broad head.",
+        "The biggest difference between pug and american pit bull terrier lies in the muscular build and broad head.",
+        "The biggest difference between pug and boxer lies in the muscular build and broad head.",
+        "The biggest difference between pug and shiba inu lies in the muscular build and broad head."
+    ],
+    "ragdoll": [
+        "The biggest difference between ragdoll and maine coon lies in the length and fluffiness of the coat.",
+        "The biggest difference between ragdoll and persian lies in the length and fluffiness of the coat.",
+        "The biggest difference between ragdoll and birman lies in the length and fluffiness of the coat."
+    ],
+    "russian blue": [
+        "The biggest difference between russian blue and british shorthair lies in the coat color and head shape.",
+        "The biggest difference between russian blue and bombay lies in the coat color and head shape."
+    ],
+    "saint bernard": [
+        "The biggest difference between saint bernard and great pyrenees lies in the massive body size and thick protective coat.",
+        "The biggest difference between saint bernard and newfoundland lies in the massive body size and thick protective coat.",
+        "The biggest difference between saint bernard and samoyed lies in the massive body size and thick protective coat.",
+        "The biggest difference between saint bernard and leonberger lies in the massive body size and thick protective coat."
+    ],
+    "samoyed": [
+        "The biggest difference between samoyed and great pyrenees lies in the massive body size and thick protective coat.",
+        "The biggest difference between samoyed and newfoundland lies in the massive body size and thick protective coat.",
+        "The biggest difference between samoyed and saint bernard lies in the massive body size and thick protective coat.",
+        "The biggest difference between samoyed and leonberger lies in the massive body size and thick protective coat."
+    ],
+    "scottish terrier": [
+        "The biggest difference between scottish terrier and miniature pinscher lies in the wiry coat and energetic temperament.",
+        "The biggest difference between scottish terrier and staffordshire bull terrier lies in the wiry coat and energetic temperament.",
+        "The biggest difference between scottish terrier and wheaten terrier lies in the wiry coat and energetic temperament."
+    ],
+    "shiba inu": [
+        "The biggest difference between shiba inu and american bulldog lies in the muscular build and broad head.",
+        "The biggest difference between shiba inu and american pit bull terrier lies in the muscular build and broad head.",
+        "The biggest difference between shiba inu and boxer lies in the muscular build and broad head.",
+        "The biggest difference between shiba inu and pug lies in the muscular build and broad head."
+    ],
+    "siamese": [
+        "The biggest difference between siamese and sphynx lies in the slender body type and pointed features.",
+        "The biggest difference between siamese and abyssinian lies in the slender body type and pointed features.",
+        "The biggest difference between siamese and egyptian mau lies in the slender body type and pointed features.",
+        "The biggest difference between siamese and bengal lies in the slender body type and pointed features."
+    ],
+    "sphynx": [
+        "The biggest difference between sphynx and siamese lies in the slender body type and pointed features.",
+        "The biggest difference between sphynx and abyssinian lies in the slender body type and pointed features.",
+        "The biggest difference between sphynx and egyptian mau lies in the slender body type and pointed features.",
+        "The biggest difference between sphynx and bengal lies in the slender body type and pointed features."
+    ],
+    "staffordshire bull terrier": [
+        "The biggest difference between staffordshire bull terrier and miniature pinscher lies in the wiry coat and energetic temperament.",
+        "The biggest difference between staffordshire bull terrier and scottish terrier lies in the wiry coat and energetic temperament.",
+        "The biggest difference between staffordshire bull terrier and wheaten terrier lies in the wiry coat and energetic temperament."
+    ],
+    "wheaten terrier": [
+        "The biggest difference between wheaten terrier and miniature pinscher lies in the wiry coat and energetic temperament.",
+        "The biggest difference between wheaten terrier and scottish terrier lies in the wiry coat and energetic temperament.",
+        "The biggest difference between wheaten terrier and staffordshire bull terrier lies in the wiry coat and energetic temperament."
+    ],
+    "yorkshire terrier": [
+        "The biggest difference between yorkshire terrier and chihuahua lies in the tiny body size and companion role.",
+        "The biggest difference between yorkshire terrier and pomeranian lies in the tiny body size and companion role.",
+        "The biggest difference between yorkshire terrier and japanese chin lies in the tiny body size and companion role.",
+        "The biggest difference between yorkshire terrier and havanese lies in the tiny body size and companion role."
+    ]
+}

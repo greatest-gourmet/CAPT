@@ -1,0 +1,72 @@
+{
+  "Annual Crop Land": [
+    "The difference between Annual Crop Land and Forest is that Annual Crop Land primarily represents agricultural fields, while Forest mainly corresponds to other forms of land use or cover.",
+    "The difference between Annual Crop Land and Herbaceous Vegetation Land is that Annual Crop Land primarily represents agricultural fields, while Herbaceous Vegetation Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Annual Crop Land and Highway or Road is that Annual Crop Land primarily represents agricultural fields, while Highway or Road mainly corresponds to other forms of land use or cover.",
+    "The difference between Annual Crop Land and Industrial Buildings is that Annual Crop Land primarily represents agricultural fields, while Industrial Buildings mainly corresponds to other forms of land use or cover.",
+    "The difference between Annual Crop Land and Pasture Land is that Annual Crop Land primarily represents agricultural fields, while Pasture Land mainly corresponds to other forms of land use or cover."
+  ],
+  "Forest": [
+    "The difference between Forest and Annual Crop Land is that Forest primarily represents vegetation or built areas, while Annual Crop Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Forest and Herbaceous Vegetation Land is that Forest primarily represents vegetation or built areas, while Herbaceous Vegetation Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Forest and Highway or Road is that Forest primarily represents vegetation or built areas, while Highway or Road mainly corresponds to other forms of land use or cover.",
+    "The difference between Forest and Industrial Buildings is that Forest primarily represents vegetation or built areas, while Industrial Buildings mainly corresponds to other forms of land use or cover.",
+    "The difference between Forest and Pasture Land is that Forest primarily represents vegetation or built areas, while Pasture Land mainly corresponds to other forms of land use or cover."
+  ],
+  "Herbaceous Vegetation Land": [
+    "The difference between Herbaceous Vegetation Land and Annual Crop Land is that Herbaceous Vegetation Land primarily represents vegetation or built areas, while Annual Crop Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Herbaceous Vegetation Land and Forest is that Herbaceous Vegetation Land primarily represents vegetation or built areas, while Forest mainly corresponds to other forms of land use or cover.",
+    "The difference between Herbaceous Vegetation Land and Highway or Road is that Herbaceous Vegetation Land primarily represents vegetation or built areas, while Highway or Road mainly corresponds to other forms of land use or cover.",
+    "The difference between Herbaceous Vegetation Land and Industrial Buildings is that Herbaceous Vegetation Land primarily represents vegetation or built areas, while Industrial Buildings mainly corresponds to other forms of land use or cover.",
+    "The difference between Herbaceous Vegetation Land and Pasture Land is that Herbaceous Vegetation Land primarily represents vegetation or built areas, while Pasture Land mainly corresponds to other forms of land use or cover."
+  ],
+  "Highway or Road": [
+    "The difference between Highway or Road and Annual Crop Land is that Highway or Road primarily represents vegetation or built areas, while Annual Crop Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Highway or Road and Forest is that Highway or Road primarily represents vegetation or built areas, while Forest mainly corresponds to other forms of land use or cover.",
+    "The difference between Highway or Road and Herbaceous Vegetation Land is that Highway or Road primarily represents vegetation or built areas, while Herbaceous Vegetation Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Highway or Road and Industrial Buildings is that Highway or Road primarily represents vegetation or built areas, while Industrial Buildings mainly corresponds to other forms of land use or cover.",
+    "The difference between Highway or Road and Pasture Land is that Highway or Road primarily represents vegetation or built areas, while Pasture Land mainly corresponds to other forms of land use or cover."
+  ],
+  "Industrial Buildings": [
+    "The difference between Industrial Buildings and Annual Crop Land is that Industrial Buildings primarily represents vegetation or built areas, while Annual Crop Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Industrial Buildings and Forest is that Industrial Buildings primarily represents vegetation or built areas, while Forest mainly corresponds to other forms of land use or cover.",
+    "The difference between Industrial Buildings and Herbaceous Vegetation Land is that Industrial Buildings primarily represents vegetation or built areas, while Herbaceous Vegetation Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Industrial Buildings and Highway or Road is that Industrial Buildings primarily represents vegetation or built areas, while Highway or Road mainly corresponds to other forms of land use or cover.",
+    "The difference between Industrial Buildings and Pasture Land is that Industrial Buildings primarily represents vegetation or built areas, while Pasture Land mainly corresponds to other forms of land use or cover."
+  ],
+  "Pasture Land": [
+    "The difference between Pasture Land and Annual Crop Land is that Pasture Land primarily represents vegetation or built areas, while Annual Crop Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Pasture Land and Forest is that Pasture Land primarily represents vegetation or built areas, while Forest mainly corresponds to other forms of land use or cover.",
+    "The difference between Pasture Land and Herbaceous Vegetation Land is that Pasture Land primarily represents vegetation or built areas, while Herbaceous Vegetation Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Pasture Land and Highway or Road is that Pasture Land primarily represents vegetation or built areas, while Highway or Road mainly corresponds to other forms of land use or cover.",
+    "The difference between Pasture Land and Industrial Buildings is that Pasture Land primarily represents vegetation or built areas, while Industrial Buildings mainly corresponds to other forms of land use or cover."
+  ],
+  "Permanent Crop Land": [
+    "The difference between Permanent Crop Land and Annual Crop Land is that Permanent Crop Land primarily represents agricultural fields, while Annual Crop Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Permanent Crop Land and Forest is that Permanent Crop Land primarily represents agricultural fields, while Forest mainly corresponds to other forms of land use or cover.",
+    "The difference between Permanent Crop Land and Herbaceous Vegetation Land is that Permanent Crop Land primarily represents agricultural fields, while Herbaceous Vegetation Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Permanent Crop Land and Highway or Road is that Permanent Crop Land primarily represents agricultural fields, while Highway or Road mainly corresponds to other forms of land use or cover.",
+    "The difference between Permanent Crop Land and Industrial Buildings is that Permanent Crop Land primarily represents agricultural fields, while Industrial Buildings mainly corresponds to other forms of land use or cover."
+  ],
+  "Residential Buildings": [
+    "The difference between Residential Buildings and Annual Crop Land is that Residential Buildings primarily represents vegetation or built areas, while Annual Crop Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Residential Buildings and Forest is that Residential Buildings primarily represents vegetation or built areas, while Forest mainly corresponds to other forms of land use or cover.",
+    "The difference between Residential Buildings and Herbaceous Vegetation Land is that Residential Buildings primarily represents vegetation or built areas, while Herbaceous Vegetation Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Residential Buildings and Highway or Road is that Residential Buildings primarily represents vegetation or built areas, while Highway or Road mainly corresponds to other forms of land use or cover.",
+    "The difference between Residential Buildings and Industrial Buildings is that Residential Buildings primarily represents vegetation or built areas, while Industrial Buildings mainly corresponds to other forms of land use or cover."
+  ],
+  "River": [
+    "The difference between River and Annual Crop Land is that River primarily represents vegetation or built areas, while Annual Crop Land mainly corresponds to other forms of land use or cover.",
+    "The difference between River and Forest is that River primarily represents vegetation or built areas, while Forest mainly corresponds to other forms of land use or cover.",
+    "The difference between River and Herbaceous Vegetation Land is that River primarily represents vegetation or built areas, while Herbaceous Vegetation Land mainly corresponds to other forms of land use or cover.",
+    "The difference between River and Highway or Road is that River primarily represents vegetation or built areas, while Highway or Road mainly corresponds to other forms of land use or cover.",
+    "The difference between River and Industrial Buildings is that River primarily represents vegetation or built areas, while Industrial Buildings mainly corresponds to other forms of land use or cover."
+  ],
+  "Sea or Lake": [
+    "The difference between Sea or Lake and Annual Crop Land is that Sea or Lake primarily represents vegetation or built areas, while Annual Crop Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Sea or Lake and Forest is that Sea or Lake primarily represents vegetation or built areas, while Forest mainly corresponds to other forms of land use or cover.",
+    "The difference between Sea or Lake and Herbaceous Vegetation Land is that Sea or Lake primarily represents vegetation or built areas, while Herbaceous Vegetation Land mainly corresponds to other forms of land use or cover.",
+    "The difference between Sea or Lake and Highway or Road is that Sea or Lake primarily represents vegetation or built areas, while Highway or Road mainly corresponds to other forms of land use or cover.",
+    "The difference between Sea or Lake and Industrial Buildings is that Sea or Lake primarily represents vegetation or built areas, while Industrial Buildings mainly corresponds to other forms of land use or cover."
+  ]
+}
