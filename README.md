@@ -65,7 +65,7 @@ We then train Adapter and MGDE:
 
 If you have any questions about our CAPT model, you can submit an issue on GitHub or contact me by email (23012112@muc.edu.cn).
 
-
+In addition, I am currently looking for a graduate supervisor. If you are interested in me, thank you for contacting me. I can send you my resume and participate in internships at any time.
  
 
 ## Acknowledge
