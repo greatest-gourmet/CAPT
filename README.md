@@ -50,13 +50,11 @@ We should first construct the Confusion Bank.
 
    ```
    python train.py  --root DATA/caltech-101 --seed 1 --trainer PromptKD --dataset-config-file configs/datasets/caltech101.yaml --config-file configs/trainers/PromptKD/vit_b16_c2_ep20_batch32_4+4ctx.yaml --output-dir output/PromptKD/base2new/train_base/caltech101/1_PromptKD_baseline/vit_b16_c2_ep20_batch32_4+4ctx/seed1  DATASET.NUM_SHOTS 0  TRAINER.MODAL base2novel TRAINER.PROMPTKD.TEMPERATURE 1.0 TRAINER.PROMPTKD.KD_WEIGHT 1000.0 TEST.SPLIT val
-
    ```
 
 We then train Adapter and MGDE:
    ```
    python train.py  --root DATA/caltech-101 --seed 1 --trainer StackSPLE_PromptKD --dataset-config-file configs/datasets/caltech101.yaml --config-file configs/trainers/SPLE/PromptKD/vit_b16_c2_ep20_batch4_4+4ctx.yaml --output-dir output/PromptKD/base2new/train_base/caltech101/3_SPLE_converse/vit_b16_c2_ep20_batch4_4+4ctx_con20/seed1 DATASET.NUM_SHOTS 16 SPLE.BACK_CKPT_PATH output/PromptKD/base2new/train_base/caltech101/1_PromptKD_baseline/vit_b16_c2_ep20_batch32_4+4ctx/seed1 SPLE.BACK_CKPT_EPOCH 20 SPLE.PIC_LIB DATA/SPLE_database/SPLE_Caltech101.json SPLE.STACK.MODE converse SPLE.STACK.WEIGHT 0.2 DATASET.SUBSAMPLE_CLASSES base SPLE.STACK.WEIGHT_FOR_NEW 0.0 TRAINER.MODAL base2novel TRAINER.PROMPTKD.TEMPERATURE 1.0 TRAINER.PROMPTKD.KD_WEIGHT 1000.0 TEST.SPLIT val
-
    ```
 
  
